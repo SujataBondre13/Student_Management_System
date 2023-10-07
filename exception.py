@@ -1,0 +1,4 @@
+class InvalidInputError(Exception):
+    pass
+
+
